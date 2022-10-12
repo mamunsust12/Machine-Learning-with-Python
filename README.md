@@ -12,7 +12,7 @@ Course contents
 6. Data Visualizatio: Matplotlib, Seaborn modules, Plotly etc.
 7. Statistical Analysis : Central Tendency, Dispersion & Outlier Detection of Data 
 8. Data Preprocessing   : Data Cleaning, Handling Missing Values, Outlier Detection
-                          with numpy, pandas, seaborn, sklearn, TensofFlow, Keras etc
+                          with numpy, pandas, seaborn, sklearn, TensofFlow, Keras
 10. Feature Engineering : LabelEncoding, OneHotEncoding, PCA
 11. Supervised ML       : Regression 
 12. Supervised ML       : Classification
