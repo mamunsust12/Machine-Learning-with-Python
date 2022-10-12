@@ -11,10 +11,13 @@ Course contents
 5. Language-Python  : Modules - Numpy, SciPy, Pandas
 6. Data Visualizatio: Matplotlib, Seaborn modules, Plotly etc.
 7. Statistical Analysis : Central Tendency, Dispersion & Outlier Detection of Data 
-8. Data Preprocessing   : Data Cleaning, Handling Missing Values, Outlier Detection
-                          with numpy, pandas, seaborn, sklearn, TensofFlow, Keras
+8. Explanatory Data Analysis: EDA with numpy, pandas, seaborn, klib libraries
+9. Data Preprocessing   : Data Cleaning, Handling Missing Values, Outlier Detection
+                          with numpy, pandas, seaborn, sklearn,klib, TensofFlow, Keras
 10. Feature Engineering : LabelEncoding, OneHotEncoding, PCA
 11. Supervised ML       : Regression 
 12. Supervised ML       : Classification
 13. Unsupervised ML     : PCA
 14. Unsupervised ML     : Clustering Analysis
+15. Machine Learning Project 1: Diabetic Disease Detection
+16. Machine Learning Project 1: Heart Disease Detection
