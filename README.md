@@ -13,9 +13,8 @@ Course contents
 7. Statistical Analysis : Central Tendency, Dispersion & Outlier Detection of Data 
 8. Data Preprocessing   : Data Cleaning, Handling Missing Values, Outlier Detection
                           with numpy, pandas, seaborn, sklearn, TensofFlow, Keras etc
-9. Feature Engineering  : LabelEncoding, OneHotEncoding, PCA
-10. Supervised ML       : Regression 
-11. Supervised ML       : Classification
-12. Unsupervised ML     : PCA
-13. Unsupervised ML     : Clustering Analysis
-14. Unsupervised ML     : Associatuin Analysis
+10. Feature Engineering : LabelEncoding, OneHotEncoding, PCA
+11. Supervised ML       : Regression 
+12. Supervised ML       : Classification
+13. Unsupervised ML     : PCA
+14. Unsupervised ML     : Clustering Analysis
