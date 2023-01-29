@@ -17,7 +17,9 @@ Course contents
 10. Feature Engineering : LabelEncoding, OneHotEncoding, PCA
 11. Supervised ML       : Regression 
 12. Supervised ML       : Classification
-13. Unsupervised ML     : PCA
-14. Unsupervised ML     : Clustering Analysis
+13. Unsupervised ML     : Clustering Analysis
+14. Unsupervised ML     : PCA, kPCA
 15. Machine Learning Project 1: Diabetic Disease Detection
 16. Machine Learning Project 1: Heart Disease Detection
+15. Deep Learning : ANN
+16. Deep Learning : CNN
